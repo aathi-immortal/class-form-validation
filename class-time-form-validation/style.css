@@ -1,0 +1,19 @@
+.main-block
+{
+    height: 100vh;
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+.form-block
+{
+    
+}
+input
+{
+    border: transparent;
+
+}
+label
+{
+    margin-left: 10px;
+}
